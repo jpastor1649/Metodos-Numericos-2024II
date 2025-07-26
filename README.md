@@ -29,4 +29,4 @@ Repositorio correspondiente a la materia **Métodos Numéricos** de la Universid
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/metodos-numericos-unal-2024-2.git
+   git clone https://github.com/jpastor1649/metodos-numericos-unal-2024-2.git
