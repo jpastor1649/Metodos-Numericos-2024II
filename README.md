@@ -2,19 +2,28 @@
 
 Repositorio correspondiente a la materia **Métodos Numéricos** de la Universidad Nacional de Colombia, semestre **2024-2**.
 
-## Estructura del repositorio
+## Contenido del repositorio
 
-- **Clases/**  
-  Material y ejemplos vistos en las clases.
+- **Lab 6 – Quiz 7.5/**  
+  Archivos y notebooks del laboratorio 6 y quiz 7.5.
 
-- **Talleres/**  
-  Talleres prácticos y teóricos propuestos durante el curso.
+- **Lab2/**  
+  Material del laboratorio 2.
 
-- **Tareas/**  
-  Asignaciones y trabajos individuales.
+- **Lab3/**  
+  Material del laboratorio 3.
 
-- **Proyecto_Final/**  
-  Proyecto final y documentación asociada.
+- **Lab4/**  
+  Material del laboratorio 4.
+
+- **Lab5-quiz7/**  
+  Material del laboratorio 5 y quiz 7.
+
+- **Quantiacs/**  
+  Archivos relacionados con ejercicios de Quantiacs.
+
+- **Quiz3/**  
+  Material del quiz 3.
 
 ## Uso
 
